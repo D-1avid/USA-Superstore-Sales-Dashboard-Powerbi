@@ -1,6 +1,8 @@
 # USA-Superstore-Sales-Dashboard-Powerbi
 This project presents an interactive Business Intelligence dashboard developed in Microsoft Power BI to analyze sales performance across the United States using the Superstore Sales Dataset (2014–2017).
 The objective was to transform raw transactional data into meaningful business insights through data modeling, DAX calculations, KPI reporting, and interactive visualizations that support executive decision-making.
+<img width="2880" height="1800" alt="BFB09ABD-5A82-461B-A03E-463080824076" src="https://github.com/user-attachments/assets/44d7ffa2-7762-48ff-9848-a14adbcb90ec" />
+
 Project Objectives
 The dashboard answers key business questions such as:
 Which states generate the highest profit?
@@ -41,6 +43,8 @@ Data Modeling
 Star Schema Design
 GitHub
 Data Modeling
+<img width="2880" height="1800" alt="C301C1F2-CCA7-448E-BBB6-40D1EFE8CE2A" src="https://github.com/user-attachments/assets/e7081ff6-6a05-4398-b9c5-9f1918b08522" />
+
 A Star Schema was implemented to improve performance and simplify reporting.
 Fact Table
 Fact Sales
